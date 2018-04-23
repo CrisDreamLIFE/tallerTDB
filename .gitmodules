@@ -1,0 +1,2 @@
+[submodule "sakila-backend-spring"]
+	url = https://bitbucket.org/RodrigoVasquez/sakila-backend-spring.git
